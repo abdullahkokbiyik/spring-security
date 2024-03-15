@@ -1,0 +1,6 @@
+Request atarken 401 unauthorized alacağız çünkü login olmadık.
+Jwt işleyişinde:
+önce token endointine kullanıcı adı ve şifre ile gidilir
+token alınır
+token ile ana sayfaya request atılır
+token ile ana sayfaya erişilebildiği görülür
